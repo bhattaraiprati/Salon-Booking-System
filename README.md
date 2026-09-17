@@ -44,14 +44,14 @@ Salon-Booking-Backend/
 The database uses a many-to-many relationship: an appointment can include one
 or more services, and a service can be part of multiple appointments.
 
-![Salon Booking System database diagram](images/DB-diagram.png)
+![Salon Booking System database diagram](Images/DB-diagram.png)
 
 ## Setup and run
 
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_PUBLIC_GITHUB_REPOSITORY_URL>
+git clone https://github.com/bhattaraiprati/Salon-Booking-System.git
 cd Salon-Booking-Backend
 ```
 
